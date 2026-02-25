@@ -43,6 +43,11 @@ License: Free and Open Source.
 
 ### Social Media  
 
+#### [Pachli](https://pachli.app)  
+Mastodon client.  
+Download: [Google Play](https://play.google.com/store/apps/details?id=app.pachli), [F-Droid](https://f-droid.org/packages/app.pachli) or [GitHub](https://github.com/pachli/pachli-android/releases) / [Bleeding edge GitHub releases](https://github.com/pachli/pachli-android-current/releases).  
+License: Free and Open Source.  
+
 ### System tools  
 
 #### [Lawnchair](https://lawnchair.app)  
