@@ -1,9 +1,9 @@
-# Accessible Android apps for blind and visually impaired users
+# Accessible Android apps for blind and visually impaired users  
 By [AndroidA11Y](https://androida11y.com)  
 Subscribe to the [commits Atom feed](https://github.com/jonathans859/awesome-androida11y-apps/commits.atom) for updates.  
-This project is inspired by the German [awesome-android-accessibility list](https://github.com/schulle4u/awesome-android-accessibility) by the [DroidBlind](https://droidblind.de) project. Thanks for your work.
+This project is inspired by the German [awesome-android-accessibility list](https://github.com/schulle4u/awesome-android-accessibility) by the [DroidBlind](https://droidblind.de) project. Thanks for your work.  
 
-## Disclaimer
+## Disclaimer  
 1. Since Google's own apps can be considered accessible, they're not included here. This list therefore focuses on apps by third-party developers.
 2. Some apps might not be available in the Play Store, and only on F-Droid or GitHub releases. To install and update these apps, we recommend using apps such as [Obtainium](https://github.com/ImranR98/Obtainium) or [Droid-ify](https://github.com/Droid-ify/client) and allowing them to install apps from unknown sources.
 3. We do not specifically check accessibility using assistive features other than TalkBack and TTS. If an app seems of interest to you, we suggest you try it out with the specific assistive tools you use. Feel free to report any issues you find and we'll adjust the provided information accordingly.
@@ -11,21 +11,21 @@ This project is inspired by the German [awesome-android-accessibility list](http
 5. Using any of the listed apps is done at your own risk.
 6. This list tries to collect as many practical apps as possible. Usefulness is subjective, and an app that doesn't work for you might work for someone else. Please keep to the original intent: accessibility.
 
-## Contribution
-We appreciate your interest in contributing. You can create an issue in this repository, fork the repository, or email us your suggestion at [submit@androida11y.com](mailto:submit@androida11y.com).
-Please make sure that your app meets the following criteria before doing so.
+## Contribution  
+We appreciate your interest in contributing. You can create an issue in this repository, fork the repository, or email us your suggestion at [submit@androida11y.com](mailto:submit@androida11y.com).  
+Please make sure that your app meets the following criteria before doing so.  
 1. Obviously, the app must be accessible with TalkBack without any major additional configuration or installation of other assistive apps.
 2. Please include a short, descriptive description of your app. You can also add additional links or information, such as reviews or demonstrations.
 3. The app must have an official download source (Google Play, F-Droid, GitHub, developer website). You should link to one of these when submitting the app. No unofficial APK download portals, please.
 4. No apps that intentionally harm the device, abuse accessibility services, spy on users, or include any other form of malware or spyware.
 5. No illegal content. We do allow apps that might violate specific store terms, but nothing against the law.
 
-## App List
-Tip: categories are always heading level 3, and apps are heading level 4. Please use your screen reader's navigation keys to comfortably navigate through the list.
+## App List  
+Tip: categories are always heading level 3, and apps are heading level 4. Please use your screen reader's navigation keys to comfortably navigate through the list.  
 
 ### Accessibility related
 
-### Communication
+### Communication  
 
 #### [FairEmail](https://email.faircode.eu)  
 Privacy-respecting, full-featured email client.  
@@ -37,12 +37,12 @@ Independent Signal fork with improved features.
 Download: [F-Droid](https://molly.im/fdroid) or [GitHub](https://github.com/mollyim/mollyim-android/releases).  
 License: Free and Open Source.  
 
-### Games
+### Games  
 
-### Navigation
+### Navigation  
 
-### Social Media
+### Social Media  
 
-### System tools
+### System tools  
 
-### Uncategorised
+### Uncategorised  
