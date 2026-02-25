@@ -51,3 +51,8 @@ Download: [Google Play](https://play.google.com/store/apps/details?id=app.lawnch
 License: Free and Open Source.  
 
 ### Uncategorised  
+
+#### [Aegis Authenticator](https://getaegis.app)  
+2FA authenticator.  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis), [F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis) or [GitHub](https://github.com/beemdevelopment/aegis/releases).  
+License: Free and Open Source.  
