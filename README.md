@@ -39,6 +39,11 @@ License: Free and Open Source.
 
 ### Games  
 
+#### [Constant Motion](https://samtupy.com/games/constant-motion)  
+Collection of small mini-games.  
+Download: [Developers website](https://samtupy.com/games/cm.apk).  
+License: Free demo; all features unlockable with a one-time payment. See the website for info.  
+
 ### Multimedia
 
 #### [LitLyric](https://github.com/shane9b3/LitLyric---Beta)  
