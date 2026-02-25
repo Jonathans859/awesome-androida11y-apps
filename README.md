@@ -88,3 +88,8 @@ License: Free and Open Source.
 2FA authenticator.  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis), [F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis) or [GitHub](https://github.com/beemdevelopment/aegis/releases).  
 License: Free and Open Source.  
+
+#### [Birthday Droid](https://tmendes.gitlab.io/BirthDayDroid)  
+Shows you the birthdays of your contacts and statistics about them.  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.tmendes.birthdaydroid) or [F-Droid](https://f-droid.org/app/com.tmendes.birthdaydroid).  
+License: Free and Open Source.  
