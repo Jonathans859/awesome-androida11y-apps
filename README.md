@@ -29,7 +29,7 @@ Tip: categories are always heading level 3, and apps are heading level 4. Please
 
 #### [FairEmail](https://email.faircode.eu)  
 Privacy-respecting, full-featured email client.  
-Download: [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.email), [F-Droid](https://f-droid.org/en/packages/eu.faircode.email) or [GitHub](https://github.com/M66B/open-source-email/releases) – more downloads can be found in the app's GitHub repository under the downloads heading.  
+Download: [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.email), [F-Droid](https://f-droid.org/en/packages/eu.faircode.email) or [GitHub](https://github.com/M66B/open-source-email/releases) â€“ more downloads can be found in the app's GitHub repository under the downloads heading.  
 License: Free and Open Source with additional pro features available via one-time payment.  
 
 #### [Molly](https://molly.im)  
@@ -44,5 +44,10 @@ License: Free and Open Source.
 ### Social Media  
 
 ### System tools  
+
+#### [Lawnchair](https://lawnchair.app)  
+Modern launcher.  
+Download: [Google Play](https://play.google.com/store/apps/details?id=app.lawnchair.play) or [GitHub](https://github.com/LawnchairLauncher/lawnchair/releases).  
+License: Free and Open Source.  
 
 ### Uncategorised  
