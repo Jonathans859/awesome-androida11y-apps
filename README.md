@@ -102,6 +102,13 @@ Get app updates directly from the source.
 Download: [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid) or [GitHub](https://github.com/ImranR98/Obtainium/releases).  
 License: Free and Open Source.  
 
+### Text to Speech  
+
+#### [Eloquence](https://play.google.com/store/apps/details?id=com.codefactoryglobal.eloquencetts)  
+The legendary eloquence TTS for Android.  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.codefactoryglobal.eloquencetts).  
+License: Monthly or yearly subscription.  
+
 ### Uncategorised  
 
 #### [Aegis Authenticator](https://getaegis.app)  
