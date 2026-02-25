@@ -41,6 +41,11 @@ License: Free and Open Source.
 
 ### Multimedia
 
+#### [LitLyric](https://github.com/shane9b3/LitLyric---Beta)  
+Audiobookshelf client.  
+Download: [GitHub](https://github.com/shane9b3/LitLyric---Beta/releases).  
+License: Free.  
+
 ### Navigation  
 
 ### Social Media  
