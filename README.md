@@ -12,12 +12,13 @@ This project is inspired by the German [awesome-android-accessibility list](http
 6. This list tries to collect as many practical apps as possible. Usefulness is subjective, and an app that doesn't work for you might work for someone else. Please keep to the original intent: accessibility.
 
 ## Contribution
-We appreciate your interest in contributing. You can create an issue in this repository, fork the repository, or email us your app at submit@androida11y.com. Please make sure that your app meets the following criteria before doing so.
+We appreciate your interest in contributing. You can create an issue in this repository, fork the repository, or email us your suggestion at [submit@androida11y.com](mailto:submit@androida11y.com).
+Please make sure that your app meets the following criteria before doing so.
 1. Obviously, the app must be accessible with TalkBack without any major additional configuration or installation of other assistive apps.
 2. Please include a short, descriptive description of your app. You can also add additional links or information, such as reviews or demonstrations.
 3. The app must have an official download source (Google Play, F-Droid, GitHub, developer website). You should link to one of these when submitting the app. No unofficial APK download portals, please.
 4. No apps that intentionally harm the device, abuse accessibility services, spy on users, or include any other form of malware or spyware.
 5. No illegal content. We do allow apps that might violate specific store terms, but nothing against the law.
 
-Tip: categories are always heading level 3, and apps are heading level 4. Please use your screen reader's navigation keys to comfortably navigate through the list.
 ## App List
+Tip: categories are always heading level 3, and apps are heading level 4. Please use your screen reader's navigation keys to comfortably navigate through the list.
