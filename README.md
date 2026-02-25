@@ -27,7 +27,7 @@ Tip: categories are always heading level 3, and apps are heading level 4. Please
 
 ### Communication
 
-^#### [FairEmail](https://email.faircode.eu)  
+#### [FairEmail](https://email.faircode.eu)  
 Privacy-respecting, full-featured email client.  
 Download: [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.email), [F-Droid](https://f-droid.org/en/packages/eu.faircode.email) or [GitHub](https://github.com/M66B/open-source-email/releases) – more downloads can be found in the app's GitHub repository under the downloads heading.  
 License: Free and Open Source with additional pro features available via one-time payment.  
