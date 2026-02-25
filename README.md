@@ -72,6 +72,11 @@ License: Free and Open Source.
 
 ### System tools  
 
+#### [CPU Info](https://github.com/kamgurgul/cpu-info)  
+Shows various hardware information and metrics.  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo), [F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo) or [GitHub](https://github.com/kamgurgul/cpu-info/releases).  
+License: Free and Open Source.  
+
 #### [Lawnchair](https://lawnchair.app)  
 Modern launcher.  
 Download: [Google Play](https://play.google.com/store/apps/details?id=app.lawnchair.play) or [GitHub](https://github.com/LawnchairLauncher/lawnchair/releases).  
