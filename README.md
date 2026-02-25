@@ -32,6 +32,11 @@ Privacy-respecting, full-featured email client.
 Download: [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.email), [F-Droid](https://f-droid.org/en/packages/eu.faircode.email) or [GitHub](https://github.com/M66B/open-source-email/releases) – more downloads can be found in the app's GitHub repository under the downloads heading.  
 License: Free and Open Source with additional pro features available via one-time payment.  
 
+#### [Molly](https://molly.im)  
+Independent Signal fork with improved features.  
+Download: [F-Droid](https://molly.im/fdroid) or [GitHub](https://github.com/mollyim/mollyim-android/releases).  
+License: Free and Open Source.  
+
 ### Games
 
 ### Navigation
