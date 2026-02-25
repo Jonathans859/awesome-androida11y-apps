@@ -22,3 +22,17 @@ Please make sure that your app meets the following criteria before doing so.
 
 ## App List
 Tip: categories are always heading level 3, and apps are heading level 4. Please use your screen reader's navigation keys to comfortably navigate through the list.
+
+### Accessibility related
+
+### Communication
+
+### Games
+
+### Navigation
+
+### Social Media
+
+### System tools
+
+### Uncategorised
