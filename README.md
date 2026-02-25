@@ -67,6 +67,11 @@ Modern launcher.
 Download: [Google Play](https://play.google.com/store/apps/details?id=app.lawnchair.play) or [GitHub](https://github.com/LawnchairLauncher/lawnchair/releases).  
 License: Free and Open Source.  
 
+#### [Obtainium](https://obtainium.imranr.dev)  
+Get app updates directly from the source.  
+Download: [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid) or [GitHub](https://github.com/ImranR98/Obtainium/releases).  
+License: Free and Open Source.  
+
 ### Uncategorised  
 
 #### [Aegis Authenticator](https://getaegis.app)  
