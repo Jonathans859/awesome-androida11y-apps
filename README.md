@@ -48,6 +48,11 @@ License: Free.
 
 ### Navigation  
 
+#### [WalkersGuide](https://www.walkersguide.org/en)  
+Navigation based on OpenStreetMap data.  
+Download: [Google Play](https://play.google.com/store/apps/details?id=org.walkersguide.android), [F-Droid](https://apt.izzysoft.de/packages/org.walkersguide.android), [GitHub](https://github.com/scheibler/WalkersGuide-Android/releases) or [Developer website](https://www.walkersguide.org/en/downloads/#downloads).  
+License: Free and Open Source.  
+
 ### Social Media  
 
 #### [Pachli](https://pachli.app)  
