@@ -6,10 +6,11 @@ This project is inspired by the German [awesome-android-accessibility list](http
 ## Disclaimer  
 1. Since Google's own apps can be considered accessible, they're not included here. This list therefore focuses on apps by third-party developers.
 2. Some apps might not be available in the Play Store, and only on F-Droid or GitHub releases. To install and update these apps, we recommend using apps such as [Obtainium](https://github.com/ImranR98/Obtainium) or [Droid-ify](https://github.com/Droid-ify/client) and allowing them to install apps from unknown sources.
-3. We do not specifically check accessibility using assistive features other than TalkBack and TTS. If an app seems of interest to you, we suggest you try it out with the specific assistive tools you use. Feel free to report any issues you find and we'll adjust the provided information accordingly.
-4. If you find that an app has become inaccessible or differs from the accessibility information provided, let us know. We might not be using every app listed here daily and will quickly take care of the matter.
-5. Using any of the listed apps is done at your own risk.
+3. Some F-Droid links may point to third-party repositories. Make sure to add the respective repository to your F-Droid client before attempting to download or update the app.
+4. We do not specifically check accessibility using assistive features other than TalkBack and TTS. If an app seems of interest to you, we suggest you try it out with the specific assistive tools you use. Feel free to report any issues you find and we'll adjust the provided information accordingly.
+5. If you find that an app has become inaccessible or differs from the accessibility information provided, let us know. We might not be using every app listed here daily and will quickly take care of the matter.
 6. This list tries to collect as many practical apps as possible. Usefulness is subjective, and an app that doesn't work for you might work for someone else. Please keep to the original intent: accessibility.
+7. Using any of the listed apps is done at your own risk.
 
 ## Contribution  
 We appreciate your interest in contributing. You can create an issue in this repository, fork the repository, or email us your suggestion at [submit@androida11y.com](mailto:submit@androida11y.com).  
