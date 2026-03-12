@@ -50,6 +50,11 @@ Collection of small mini-games.
 Download: [Developers website](https://samtupy.com/games/cm.apk).  
 License: Free demo; all features unlockable with a one-time payment. See the website for info.  
 
+#### [Crazyfield](https://samtupy.com/games/crazyfield)  
+Survival mini-game.  
+Download: [Developers website](https://samtupy.com/games/crazyfield.apk).  
+License: Free.  
+
 ### Multimedia
 
 #### [LitLyric](https://github.com/shane9b3/LitLyric---Beta)  
