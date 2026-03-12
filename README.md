@@ -56,7 +56,7 @@ Download: [Developers website](https://samtupy.com/games/crazyfield.apk).
 License: Free.  
 
 #### [Mudpie](https://github.com/aaron-gh/mudpie-releases)  
-Comprehensive MUD client with features such as triggers, aliases andsounds.  
+Comprehensive MUD client with features such as triggers, aliases and sounds.  
 Download: [GitHub](https://github.com/aaron-gh/mudpie-releases/releases).  
 License: Free.  
 
