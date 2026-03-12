@@ -55,6 +55,11 @@ Survival mini-game.
 Download: [Developers website](https://samtupy.com/games/crazyfield.apk).  
 License: Free.  
 
+#### [Mudpie](https://github.com/aaron-gh/mudpie-releases)  
+Comprehensive MUD client with features such as triggers, aliases andsounds.  
+Download: [GitHub](https://github.com/aaron-gh/mudpie-releases/releases).  
+License: Free.  
+
 ### Multimedia
 
 #### [LitLyric](https://github.com/shane9b3/LitLyric---Beta)  
