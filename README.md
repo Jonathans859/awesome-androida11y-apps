@@ -13,7 +13,7 @@ This project is inspired by the German [awesome-android-accessibility list](http
 7. Using any of the listed apps is done at your own risk.
 
 ## Contribution  
-We appreciate your interest in contributing. You can create an issue in this repository, fork the repository, or email us your suggestion at [contact@androida11y.com](mailto:submit@androida11y.com).  
+We appreciate your interest in contributing. You can create an issue in this repository, fork the repository, or email us your suggestion at [contact@androida11y.com](mailto:contact@androida11y.com).  
 Please make sure that your app meets the following criteria before doing so.  
 1. Obviously, the app must be accessible with TalkBack without any major additional configuration or installation of other assistive apps.
 2. Please include a short, descriptive description of your app. You can also add additional links or information, such as reviews or demonstrations.
