@@ -130,6 +130,11 @@ The legendary eloquence TTS for Android.
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.codefactoryglobal.eloquencetts).  
 License: Monthly or yearly subscription.  
 
+#### [RHVoice](https://rhvoice.org)  
+Fast and multilingual speech synthesizer.  
+Download: [Google Play](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android) or [F-Droid](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android).  
+License: Free and Open Source.  
+
 ### Uncategorised  
 
 #### [Aegis Authenticator](https://getaegis.app)  
