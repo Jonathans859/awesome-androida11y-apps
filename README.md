@@ -58,7 +58,7 @@ License: Free.
 #### [Mudpie](https://github.com/aaron-gh/mudpie-releases)  
 Comprehensive MUD client with features such as triggers, aliases and sounds.  
 Download: [GitHub](https://github.com/aaron-gh/mudpie-releases/releases).  
-License: Free.  
+License: Free with additional pro features available through GitHub sponsors.  
 
 #### [Quizzy](https://github.com/amanKG777/Quizzy)  
 An interactive trivia game inspired by "Kaun Banega Crorepati" (KBC).  
