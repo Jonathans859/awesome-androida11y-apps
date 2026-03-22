@@ -36,7 +36,7 @@ License: Free and Open Source with additional pro features available via one-tim
 #### [Launch Chat](https://github.com/vinaygopinath/launch-chat)  
 Launch a chat in different messaging apps without saving the number as a contact.  
 Download: [F-Droid](https://f-droid.org/packages/org.vinaygopinath.launchchat) or [GitHub](https://github.com/vinaygopinath/launch-chat/releases).  
-License: Free and Open Source with additional pro features available via one-time payment.  
+License: Free and Open Source.  
 
 #### [Molly](https://molly.im)  
 Independent Signal fork with improved features.  
