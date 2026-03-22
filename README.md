@@ -123,6 +123,11 @@ Highly customisable notification reader.
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.micoyc.speakthat), [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.micoyc.speakthat) or [GitHub](https://github.com/mitchib1440/SpeakThat/releases).  
 License: Free and Open Source.  
 
+#### [TapType](https://github.com/aaron-gh/taptype-releases)  
+Keyboard for the blind, no visually visible keys. You tap where QWERTY keys would be from muscle memory, and a spatial prediction algorithm figures out what you meant. Read more about its functionallity in the app or on the 1st release page.  
+Download: [GitHub](https://github.com/aaron-gh/taptype-releases/releases).  
+License: Free.  
+
 ### Text to Speech  
 
 #### [Eloquence](https://play.google.com/store/apps/details?id=com.codefactoryglobal.eloquencetts)  
