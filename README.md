@@ -51,7 +51,7 @@ Download: [Developers website](https://samtupy.com/games/cm.apk).
 License: Free demo; all features unlockable with a one-time payment. See the website for info.  
 
 #### [Crazyfield](https://samtupy.com/games/crazyfield)  
-Survival mini-game.  
+Crazy Party inspired survival mini-game.  
 Download: [Developers website](https://samtupy.com/games/crazyfield.apk).  
 License: Free.  
 
