@@ -131,7 +131,7 @@ License: Free.
 ### Text to Speech  
 
 #### [Eloquence](https://play.google.com/store/apps/details?id=com.codefactoryglobal.eloquencetts)  
-The legendary eloquence TTS for Android.  
+The well known eloquence TTS for Android.  
 Download: [Google Play](https://play.google.com/store/apps/details?id=com.codefactoryglobal.eloquencetts).  
 License: Monthly or yearly subscription.  
 
